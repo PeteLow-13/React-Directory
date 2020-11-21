@@ -10,12 +10,12 @@ A tool to sort and filter employees using react
 
 
 ## Usage
-![homepage](./assets/nofilters.png)
+![homepage](./my-app/assets/nofilters.png)
 Use it to sort empolyees ordering by last name:
-![lastNameSort](./assets/lastNameSort.png) 
-age: ![ageSort](./assets/birthdaySort.png)
-user name: ![](./assets/userNameSort.png) 
-or filter by gender: ![genderFilter](./my-app/public/assets/genderFilter.png)
+![lastNameSort](./my-app/assets/lastNameSort.png) 
+age: ![ageSort](./my-app/assets/birthdaySort.png)
+user name: ![](./my-app/assets/userNameSort.png) 
+or filter by gender: ![genderFilter](./my-app/assets/genderFilter.png)
 
 ## Languages
 
