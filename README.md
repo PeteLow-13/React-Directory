@@ -10,7 +10,7 @@ A tool to sort and filter employees using react
 
 
 ## Usage
-![homepage](./my-app/assets/noFilters.png)
+![homepage](./my-app/assets/noFilter.png)
 Use it to sort empolyees ordering by last name:
 ![lastNameSort](./my-app/assets/lastNameSort.png) 
 age: ![ageSort](./my-app/assets/birthdaySort.png)
