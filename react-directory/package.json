@@ -1,6 +1,6 @@
 {
   "homepage": "https://petelow-13.github.io/React-Employee-Directory/",
-  "name": "my-app",
+  "name": "react-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
