@@ -1,0 +1,16 @@
+/* *{
+    background-color: aquamarine;
+} */
+
+h1{
+    margin: 5px;
+    text-align: center;
+    color: royalblue;
+    background-color: rgba(127, 255, 212, 0.324);
+    border-style: solid;
+    border-color: hotpink;
+    border-width: 1px;
+    border-radius: 10px;
+    box-shadow: 10px 2px 2px rgba(0, 0, 0, 0.527);
+    padding: 10px;
+}
