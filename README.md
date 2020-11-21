@@ -1,4 +1,4 @@
-# React-Directory# React-Employee-Directory
+# React-Directory
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
@@ -22,7 +22,7 @@ or filter by gender: ![genderFilter](./my-app/public/assets/genderFilter.png)
 React, Javascript, HTML, CSS
 
 ## Repository
-- https://github.com/PeteLow-13/React-Employee-Directory
+- https://github.com/PeteLow-13/React-Directory
 ## Questions
 
 Contact me via email or github with questions
