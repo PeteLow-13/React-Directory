@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import EmployeeCard from '../EmployeeCard';
+import EmployeeCard from '../EmployeeCard/index.js';
 import './style.css';
 
 

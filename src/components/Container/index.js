@@ -1,6 +1,6 @@
 import {Component}  from 'react';
 import API from '../../utils/API.js';
-import EmployeeCards from '../EmployeeCards.js/index.js';
+import EmployeeCards from '../EmployeeCards/index.js';
 import './style.css';
 
 export default class Container extends Component {
